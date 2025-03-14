@@ -17,34 +17,33 @@ This repository will be regularly updated as I explore new bioinformatics techni
 
 ---
 
-## Project 1: Sequence Alignment and BLAST Search with Biopython
+## 📌 Projects
 
-This project demonstrates how to access and analyze nucleotide and protein sequences using Biopython. 
-It focuses on performing BLAST (Basic Local Alignment Search Tool) queries through NCBI's `qblast` API 
-to find homologous sequences in bioinformatics databases.
+<details>
+  <summary>🚀 **Project 1: Sequence Alignment and BLAST Search with Biopython**</summary>
 
-### Project Structure
-- **Part 1: Nucleotide BLAST (BLASTn) with NCBI**
-  - Reads nucleotide sequences from a FASTA file.
-  - Performs BLASTn search against the NCBI nucleotide database.
-  - Parses and displays BLAST results, including sequence IDs, descriptions, E-values, and alignments.
+### Part 1: Nucleotide BLAST (BLASTn) with NCBI
+#### Overview
+This part of the project demonstrates how to access and analyze nucleotide sequences using Biopython. Specifically, it retrieves sequences from a FASTA file, performs BLAST (Basic Local Alignment Search Tool) search using NCBI's `qblast` API, and processes the results to identify homologous sequences in the NCBI nucleotide database.
 
-- **Part 2: Protein BLAST (BLASTp) with NCBI** *(Coming Soon)*
-  - Translates nucleotide sequences into proteins.
-  - Performs BLASTp search for homologous protein sequences.
+#### Requirements
+- Python 3.x
+- Biopython library
+- A nucleotide sequence dataset (TP53.fna)
+- Internet access (for querying NCBI)
 
-### Dataset
+#### Implementation
+The script follows these main steps:
+1. **Load the nucleotide sequences** from a FASTA file.
+2. **Print sequence information** including sequence length and description.
+3. **Perform BLASTn search** on each sequence using NCBI's `qblast`.
+4. **Parse and display BLAST results**, including sequence IDs, descriptions, E-values, and alignments.
+
+#### Dataset
 - The dataset used is the **TP53 gene sequence**, available at:  
   [NCBI TP53 Gene](https://www.ncbi.nlm.nih.gov/gene/7157)
 
-### Requirements
-- Python 3.x
-- Biopython (`pip install biopython`)
-- Internet access for querying NCBI
+---
 
-### Usage
-Run the following command in a Jupyter Notebook or Python script:
-```python
-!pip install biopython
-from Bio.Blast import NCBIWWW 
-from Bio import SeqIO, SearchIO 
+</details>
+
