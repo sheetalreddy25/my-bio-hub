@@ -1,6 +1,23 @@
-# my-bio-hub
+# 🧬 My Bio Hub – A Collection of Bioinformatics Projects
 
-## Sequence Alignment and BLAST Search with Biopython
+Welcome to **My Bio Hub**, a personal repository showcasing my bioinformatics projects. This space serves as my portfolio, highlighting various computational biology workflows, data curation and analysis techniques, and bioinformatics tools.
+
+## 🔬 What's Inside?
+- **Sequence Analysis** (BLAST searches, alignments)
+- **Biocuration & Data Retrieval** (NCBI, Biopython, APIs)
+- **Genomics & Transcriptomics** (scRNA-seq, cancer datasets)
+- **Python & SQL for Bioinformatics**
+
+## 🚀 Current & Future Projects
+✅ **Sequence Alignment and BLAST Search with Biopython** (Ongoing)  
+🔜 **Protein BLAST (BLASTp) & Functional Analysis**  
+🔜 **Gene Expression Data Processing & Visualization**  
+
+This repository will be regularly updated as I explore new bioinformatics techniques and tools. Stay tuned!
+
+---
+
+## Project 1: Sequence Alignment and BLAST Search with Biopython
 
 This project demonstrates how to access and analyze nucleotide and protein sequences using Biopython. 
 It focuses on performing BLAST (Basic Local Alignment Search Tool) queries through NCBI's `qblast` API 
