@@ -20,14 +20,14 @@ This repository will be regularly updated as I explore new bioinformatics techni
 ## 📌 Projects
 
 <details>
-  <summary>🚀 **Project 1: Sequence Alignment and BLAST Search with Biopython**</summary>
+  <summary>🚀 Project 1</summary>
 
-# **Project 1: Sequence Alignment and BLAST Search with Biopython**
+# **Sequence Alignment and BLAST Search with Biopython**
 
 <details>
-  <summary>🧬 **Part 1: Nucleotide BLAST (BLASTn) with NCBI**</summary>
+  <summary>🧬 Part 1</summary>
 
-## **Part 1: Nucleotide BLAST (BLASTn) with NCBI**
+## **Nucleotide BLAST (BLASTn) with NCBI**
 
 ### Overview
 This part of the project demonstrates how to access and analyze nucleotide sequences using Biopython. Specifically, it retrieves sequences from a FASTA file, performs BLAST (Basic Local Alignment Search Tool) search using NCBI's `qblast` API, and processes the results to identify homologous sequences in the NCBI nucleotide database.
@@ -52,9 +52,9 @@ The script follows these main steps:
 </details>
 
 <details>
-  <summary>🧪 **Part 2: Protein BLAST (BLASTp) with NCBI** (Coming Soon)</summary>
+  <summary>🧪 Part 2 (Coming Soon)</summary>
 
-## **Part 2: Protein BLAST (BLASTp) with NCBI**
+## **Protein BLAST (BLASTp) with NCBI**
 
 This section will cover performing a **Protein BLAST (BLASTp)** search using the translated protein sequences from TP53. Stay tuned for updates!
 
