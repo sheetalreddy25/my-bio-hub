@@ -20,38 +20,29 @@ This repository will be regularly updated as I explore new bioinformatics techni
 ## 📌 Projects
 
 <details>
-  <summary> 
-    
-  ### Project 1: Sequence Alignment and BLAST Search with Biopython
-  </summary>
-  <details>
-    <summary>
-    
-  #### Part 1: Nucleotide BLAST (BLASTn) with NCBI
-    </summary>
-    
-  #### Overview
-  This part of the project demonstrates how to access and analyze nucleotide sequences using Biopython. Specifically, it retrieves sequences from a FASTA file, performs        BLAST (Basic Local Alignment Search Tool) search using NCBI's `qblast` API, and processes the results to identify homologous sequences in the NCBI nucleotide database.
+  <summary>🚀 **Project 1: Sequence Alignment and BLAST Search with Biopython**</summary>
 
-  #### Requirements
+### Part 1: Nucleotide BLAST (BLASTn) with NCBI
+#### Overview
+This part of the project demonstrates how to access and analyze nucleotide sequences using Biopython. Specifically, it retrieves sequences from a FASTA file, performs BLAST (Basic Local Alignment Search Tool) search using NCBI's `qblast` API, and processes the results to identify homologous sequences in the NCBI nucleotide database.
+
+#### Requirements
 - Python 3.x
 - Biopython library
 - A nucleotide sequence dataset (TP53.fna)
 - Internet access (for querying NCBI)
 
-  #### Implementation
-  The script follows these main steps:
-  1. **Load the nucleotide sequences** from a FASTA file.
-  2. **Print sequence information** including sequence length and description.
-  3. **Perform BLASTn search** on each sequence using NCBI's `qblast`.
-  4. **Parse and display BLAST results**, including sequence IDs, descriptions, E-values, and alignments.
+#### Implementation
+The script follows these main steps:
+1. **Load the nucleotide sequences** from a FASTA file.
+2. **Print sequence information** including sequence length and description.
+3. **Perform BLASTn search** on each sequence using NCBI's `qblast`.
+4. **Parse and display BLAST results**, including sequence IDs, descriptions, E-values, and alignments.
 
-  #### Dataset
-  - The dataset used is the **TP53 gene sequence**, available at:  
-    [NCBI TP53 Gene](https://www.ncbi.nlm.nih.gov/gene/7157)
+#### Dataset
+- The dataset used is the **TP53 gene sequence**, available at:  
+  [NCBI TP53 Gene](https://www.ncbi.nlm.nih.gov/gene/7157)
 
-  </details>
 ---
 
 </details>
-
