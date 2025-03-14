@@ -22,7 +22,7 @@ This repository will be regularly updated as I explore new bioinformatics techni
 <details>
   <summary> 
     
-  ### 🚀 Project 1: Sequence Alignment and BLAST Search with Biopython
+  ### Project 1: Sequence Alignment and BLAST Search with Biopython
   </summary>
   <details>
     <summary>
