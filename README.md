@@ -27,7 +27,7 @@ This repository will be regularly updated as I explore new bioinformatics techni
 <details>
   <summary>🧬 Part 1</summary>
 
-## **Nucleotide BLAST (BLASTn) with NCBI**
+## [**Nucleotide BLAST (BLASTn) with NCBI**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/nucleotide-blast-blastn-with-ncbi.ipynb)
 
 ### Overview
 This part of the project demonstrates how to access and analyze nucleotide sequences using Biopython. Specifically, it retrieves sequences from a FASTA file, performs BLAST (Basic Local Alignment Search Tool) search using NCBI's `qblast` API, and processes the results to identify homologous sequences in the NCBI nucleotide database.
