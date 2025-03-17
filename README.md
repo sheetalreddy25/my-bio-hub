@@ -54,7 +54,7 @@ The script follows these main steps:
 <details>
   <summary>🧪 Part 2 (Coming Soon)</summary>
 
-## **Protein BLAST (BLASTp) with NCBI**
+## [**Protein BLAST (BLASTp) with NCBI**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/protein-blast-blastp-with-ncbi.ipynb)
 
 This section will cover performing a **Protein BLAST (BLASTp)** search using the translated protein sequences from TP53. Stay tuned for updates!
 
