@@ -30,7 +30,7 @@ This repository will be regularly updated as I explore new bioinformatics techni
 - Python 3.x
 - Biopython library
 - Internet access (for querying NCBI)
-- Notebooks for writing and running Python code (Jupyter, Kaggle, Google Colab, etc.)
+- Notebook for writing and running Python code (Jupyter, Kaggle, Google Colab, etc.)
 
 ### Implementation
 The script follows these main steps:
@@ -40,12 +40,12 @@ The script follows these main steps:
 4. **Parse and display BLAST results**, including sequence IDs, descriptions, E-values, and alignments.
 
 <details>
-  <summary>🧬 Part 1</summary>
+  <summary>🧬 Part 1 </summary>
 
 ## [**Nucleotide BLAST (BLASTn) with NCBI**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/nucleotide-blast-blastn-with-ncbi.ipynb)
 
 ### Overview
-This part of the project demonstrates how to access and analyze nucleotide sequences using Biopython. Specifically, it retrieves sequences from a FASTA file, performs BLAST (Basic Local Alignment Search Tool) search using NCBI's `qblast` API, and processes the results to identify homologous sequences in the NCBI nucleotide database.
+This part of the project involves performing a Nucleotide BLAST (BLASTn) search using the TP53 gene sequence. BLASTn is used to compare a nucleotide sequence against the NCBI nucleotide database to identify homologous sequences.
 
 ### Dataset
 - The dataset used is the **TP53 gene sequence**, available at:  
@@ -54,7 +54,7 @@ This part of the project demonstrates how to access and analyze nucleotide seque
 </details>
 
 <details>
-  <summary>🧪 Part 2 (Coming Soon)</summary>
+  <summary>🧪 Part 2 </summary>
 
 ## [**Protein BLAST (BLASTp) with NCBI**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/protein-blast-blastp-with-ncbi.ipynb)
 
