@@ -9,7 +9,7 @@ Welcome to **My Bio Hub**, a personal repository showcasing my bioinformatics pr
 - **Pathway & Gene Network Exploration** (KEGG Database)
 
 ## 🚀 Current & Future Projects
-✅ **Sequence Alignment using NCBI BLAST and Biopython** (Completed)  
+✅ **Sequence Alignment using NCBI BLAST** (Completed)  
 🔜 **Fetch PUBMED & Nucleotide Sequences using ENTREZ**  
 🔜 **Fetch Proteins from PDB**  
 🔜 **PROSITE & SCANPROSITE from EXPASY**  
@@ -24,7 +24,7 @@ This repository will be regularly updated as I explore new bioinformatics techni
 <details>
   <summary>🚀 Project 1</summary>
 
-# **Sequence Alignment using NCBI BLAST and Biopython**
+# **Sequence Alignment using NCBI BLAST**
 
 ### Requirements
 - Python 3.x
@@ -42,7 +42,8 @@ The script follows these main steps:
 <details>
   <summary>🧬 Part 1 </summary>
 
-## [**Nucleotide BLAST (BLASTn) with NCBI**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/nucleotide-blast-blastn-with-ncbi.ipynb)
+## **Nucleotide BLAST (BLASTn) with NCBI**
+### [**Python notebook**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/nucleotide-blast-blastn-with-ncbi.ipynb)
 
 ### Overview
 This part of the project involves performing a Nucleotide BLAST (BLASTn) search using the TP53 gene sequence. BLASTn is used to compare a nucleotide sequence against the NCBI nucleotide database to identify homologous sequences.
@@ -56,7 +57,8 @@ This part of the project involves performing a Nucleotide BLAST (BLASTn) search 
 <details>
   <summary>🧪 Part 2 </summary>
 
-## [**Protein BLAST (BLASTp) with NCBI**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/protein-blast-blastp-with-ncbi.ipynb)
+## **Protein BLAST (BLASTp) with NCBI**
+### [**Python notebook**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/protein-blast-blastp-with-ncbi.ipynb)
 
 ### Overview
 This part of the project involves performing a Protein BLAST (BLASTp) search using the translated TP53 protein sequence. BLASTp is used to compare an amino acid sequence against the NCBI protein database to identify homologous sequences.
