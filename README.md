@@ -9,7 +9,7 @@ Welcome to **My Bio Hub**, a personal repository showcasing my bioinformatics pr
 - **Pathway & Gene Network Exploration** (KEGG Database)
 
 ## 🚀 Current & Future Projects
-✅ **Sequence Alignment using NCBI BLAST** (Completed)  
+✅ **Sequence Alignment using NCBI BLAST and Biopython** (Completed)  
 🔜 **Fetch PUBMED & Nucleotide Sequences using ENTREZ**  
 🔜 **Fetch Proteins from PDB**  
 🔜 **PROSITE & SCANPROSITE from EXPASY**  
@@ -24,13 +24,13 @@ This repository will be regularly updated as I explore new bioinformatics techni
 <details>
   <summary>🚀 Project 1</summary>
 
-# **Sequence Alignment and BLAST Search with Biopython**
+# **Sequence Alignment using NCBI BLAST and Biopython**
 
 ### Requirements
 - Python 3.x
 - Biopython library
 - Internet access (for querying NCBI)
-- Notebook for writing and running Python code (Jupyter, Kaggle, Google Colab, etc.)
+- A Python environment such as Jupyter Notebook, Kaggle, or Google Colab for running the code
 
 ### Implementation
 The script follows these main steps:
@@ -63,7 +63,7 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 
 ### Dataset
 - The dataset used is the **TP53 protein sequence**, available at:  
-  [UniProt P04637](https://www.uniprot.org/uniprotkb/P04637/entry)
+  [UniProt P04637](https://www.uniprot.org/uniprotkb/P04637/entry)</br>
   [FASTA Download](https://rest.uniprot.org/uniprotkb/P04637.fasta)
 
 </details>
