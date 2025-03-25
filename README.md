@@ -26,23 +26,13 @@ This repository will be regularly updated as I explore new bioinformatics techni
 
 # **Sequence Alignment using NCBI BLAST**
 
-### Requirements
-- Python 3.x
-- Biopython library
-- Internet access (for querying NCBI)
-- A Python environment such as Jupyter Notebook, Kaggle, or Google Colab for running the code
-
-### Implementation
-The script follows these main steps:
-1. **Load the nucleotide/protein sequences** from a FASTA file.
-2. **Print sequence information** including sequence length and description.
-3. **Perform BLASTn/BLASTp search** on each sequence using NCBI's `qblast`.
-4. **Parse and display BLAST results**, including sequence IDs, descriptions, E-values, and alignments.
+### [Project1 Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/fbbcc386ff162988a560a08cba1d047ed16f7cbc/Project1_Documentation.pdf)
 
 <details>
   <summary>🧬 Part 1 </summary>
 
 ## **Nucleotide BLAST (BLASTn) with NCBI**
+
 ### [**Python notebook**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/nucleotide-blast-blastn-with-ncbi.ipynb)
 
 ### Overview
@@ -58,6 +48,7 @@ This part of the project involves performing a Nucleotide BLAST (BLASTn) search 
   <summary>🧪 Part 2 </summary>
 
 ## **Protein BLAST (BLASTp) with NCBI**
+
 ### [**Python notebook**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/protein-blast-blastp-with-ncbi.ipynb)
 
 ### Overview
