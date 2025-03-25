@@ -28,6 +28,10 @@ To compare the **TP53 gene** sequence against NCBI's nucleotide database (nt) us
 
 - [TP53 Gene – NCBI](https://www.ncbi.nlm.nih.gov/gene/7157)
 
+### 📓 Notebook
+
+- [View Python Notebook for Part 1](https://github.com/sheetalreddy25/my-bio-hub/blob/main/nucleotide-blast-blastn-with-ncbi.ipynb)
+
 ### 🔄 Workflow
 
 1. Load the TP53 gene sequence from the FASTA file  
@@ -47,6 +51,10 @@ To compare the **TP53 protein** sequence against NCBI's protein database (pdb) u
 
 - [UniProt Entry – TP53 (P04637)](https://www.uniprot.org/uniprotkb/P04637/entry)  
 - [FASTA Download](https://rest.uniprot.org/uniprotkb/P04637.fasta)
+
+### 📓 Notebook
+
+- [View Python Notebook for Part 2](https://github.com/sheetalreddy25/my-bio-hub/blob/main/protein-blast-blastp-with-ncbi.ipynb)
 
 ### 🔄 Workflow
 
