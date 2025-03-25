@@ -26,7 +26,7 @@ This repository will be regularly updated as I explore new bioinformatics techni
 
 # **Sequence Alignment using NCBI BLAST**
 
-### [Project 1 Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/ccb4b8a88d4a22f197e5848e54c2e08b7200d940/Project1_Documentation.md)
+### [Project 1 Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/5d455afccf9c6d19359b3acab38ab8a791e87fce/Project1_Documentation.md)
 
 <details>
   <summary>🧬 Part 1 </summary>
