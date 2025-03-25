@@ -26,7 +26,7 @@ This repository will be regularly updated as I explore new bioinformatics techni
 
 # **Sequence Alignment using NCBI BLAST**
 
-### [Project1 Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/fbbcc386ff162988a560a08cba1d047ed16f7cbc/Project1_Documentation.pdf)
+### [Project 1 Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/fbbcc386ff162988a560a08cba1d047ed16f7cbc/Project1_Documentation.pdf)
 
 <details>
   <summary>🧬 Part 1 </summary>
@@ -56,8 +56,8 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 
 ### Dataset
 - The dataset used is the **TP53 protein sequence**, available at:  
-  [UniProt P04637](https://www.uniprot.org/uniprotkb/P04637/entry)</br>
-  [FASTA Download](https://rest.uniprot.org/uniprotkb/P04637.fasta)
+  - [UniProt P04637](https://www.uniprot.org/uniprotkb/P04637/entry)  
+  - [FASTA Download](https://rest.uniprot.org/uniprotkb/P04637.fasta)
 
 </details>
 
