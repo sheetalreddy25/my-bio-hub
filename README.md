@@ -26,14 +26,14 @@ This repository will be regularly updated as I explore new bioinformatics techni
 
 # **Sequence Alignment using NCBI BLAST**
 
-### [Project 1 Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/5d455afccf9c6d19359b3acab38ab8a791e87fce/Project1_Documentation.md)
+### [View Project 1 Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/5d455afccf9c6d19359b3acab38ab8a791e87fce/Project1_Documentation.md)
 
 <details>
   <summary>🧬 Part 1 </summary>
 
 ## **Nucleotide BLAST (BLASTn) with NCBI**
 
-### [**Python notebook**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/nucleotide-blast-blastn-with-ncbi.ipynb)
+### [**View Python Notebook for Part 1**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/nucleotide-blast-blastn-with-ncbi.ipynb)
 
 ### Overview
 This part of the project involves performing a Nucleotide BLAST (BLASTn) search using the TP53 gene sequence. BLASTn is used to compare a nucleotide sequence against the NCBI nucleotide database to identify homologous sequences.
@@ -49,7 +49,7 @@ This part of the project involves performing a Nucleotide BLAST (BLASTn) search 
 
 ## **Protein BLAST (BLASTp) with NCBI**
 
-### [**Python notebook**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/protein-blast-blastp-with-ncbi.ipynb)
+### [**View Python Notebook for Part 2**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/protein-blast-blastp-with-ncbi.ipynb)
 
 ### Overview
 This part of the project involves performing a Protein BLAST (BLASTp) search using the translated TP53 protein sequence. BLASTp is used to compare an amino acid sequence against the NCBI protein database to identify homologous sequences.
