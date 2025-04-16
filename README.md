@@ -19,7 +19,7 @@ This repository will be regularly updated as I explore new bioinformatics techni
 
 ---
 
-## 📌 Projects
+# 📌 Projects
 
 <details>
   <summary>🚀 Project 1</summary>
@@ -66,12 +66,12 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 <details>
   <summary>🧬 Project 2</summary>
 
-# **Fetch PUBMED & Nucleotide Sequences using ENTREZ**
+## **Fetch PUBMED & Nucleotide Sequences using ENTREZ**
 
-### [View Project 1 Documentation]()
+### [View Project 2 Documentation]()
 
 <details>
-  <summary>📄 Part 1: Fetch PUBMED from Entrez</summary>
+  <summary>📄 Part 1</summary>
 
 ## **Fetch PUBMED from Entrez**
 
