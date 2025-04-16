@@ -75,13 +75,10 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 
 ## **Fetch PUBMED from Entrez**
 
-### [🧪 View Python Notebook for Part 1]()
+### [🧪 View Python Notebook for Part 1](https://github.com/sheetalreddy25/my-bio-hub/blob/24720273d6d61ba1e89e489dcb77934371ddb419/fetch-pubmed-from-entrez.ipynb)
 
-This part demonstrates how to:
-- Access the PubMed database with Biopython Entrez
-- Search for gene-related articles (e.g., TP53)
-- Retrieve article summaries and display author, title, journal, and date
-- Pretty-print full XML metadata for any given PubMed ID
+### Overview
+This part of the project involves retrieving data from the **PubMed** database using Biopython’s **Entrez API**. It includes searching for articles related to TP53 and formatting the results.
 
 </details>
 
