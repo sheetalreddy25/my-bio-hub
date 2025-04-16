@@ -62,3 +62,29 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 </details>
 
 </details>
+
+<details>
+  <summary>🧬 Project 2</summary>
+
+# **Fetch PUBMED & Nucleotide Sequences using ENTREZ**
+
+### [View Project 1 Documentation]()
+
+<details>
+  <summary>📄 Part 1: Fetch PUBMED from Entrez</summary>
+
+## **Fetch PUBMED from Entrez**
+
+### [🧪 View Python Notebook for Part 1]()
+
+This part demonstrates how to:
+- Access the PubMed database with Biopython Entrez
+- Search for gene-related articles (e.g., TP53)
+- Retrieve article summaries and display author, title, journal, and date
+- Pretty-print full XML metadata for any given PubMed ID
+
+</details>
+
+<!-- Part 2 coming soon -->
+
+</details>
