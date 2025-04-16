@@ -62,7 +62,9 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 </details>
 
 </details>
+
 ---
+
 <details>
   <summary>🧬 Project 2</summary>
 
