@@ -18,6 +18,7 @@ Welcome to **My Bio Hub**, a personal repository showcasing my bioinformatics pr
 This repository will be regularly updated as I explore new bioinformatics techniques and tools. Stay tuned!
 
 ---
+---
 
 # 📌 Projects
 
