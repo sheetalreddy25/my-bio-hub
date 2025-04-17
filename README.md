@@ -75,7 +75,7 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 <details>
   <summary>📄 Part 1</summary>
 
-## **Fetch PUBMED from Entrez**
+## **Fetch PUBMED using Entrez**
 
 ### [🧪 View Python Notebook for Part 1](https://github.com/sheetalreddy25/my-bio-hub/blob/24720273d6d61ba1e89e489dcb77934371ddb419/fetch-pubmed-from-entrez.ipynb)
 
