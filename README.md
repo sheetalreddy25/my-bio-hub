@@ -91,5 +91,8 @@ This part of the project involves retrieving data from the **PubMed** database u
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sheetalreddy25)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sheetalreddy25)
+- 📧 [sheetal.reddy@g.austincc.edu](mailto:sheetal.reddy@g.austincc.edu)
+
 
