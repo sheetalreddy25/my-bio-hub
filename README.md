@@ -84,9 +84,18 @@ This part of the project involves retrieving data from the **PubMed** database u
 
 </details>
 
-<!-- Part 2 coming soon -->
+<details>
+  <summary>🧬 Part 2</summary>
+
+## **Fetch Nucleotide Sequences from Entrez**
+
+### [🧪 View Python Notebook for Part 2]()
+
+### Overview  
+This part of the project demonstrates how to search for and retrieve **nucleotide sequences** from the **NCBI Nucleotide database** using Biopython’s Entrez module. It includes a gene-level search (TP53 in humans), and fetches records in both FASTA and GenBank formats.
 
 </details>
+
 
 ---
 
