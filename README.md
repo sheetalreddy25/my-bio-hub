@@ -87,7 +87,7 @@ This part of the project involves retrieving data from the **PubMed** database u
 <details>
   <summary>🧬 Part 2</summary>
 
-## **Fetch Nucleotide Sequences from Entrez**
+## **Fetch Nucleotide Sequences using Entrez**
 
 ### [🧪 View Python Notebook for Part 2](https://github.com/sheetalreddy25/my-bio-hub/blob/f9185416a09cd9799d7ce46e48aff519f8629798/fetch-nucleotide-sequences-using-entrez.ipynb)
 
