@@ -11,6 +11,7 @@ Welcome to **My Bio Hub**, a personal repository showcasing my bioinformatics pr
 ## 🚀 Current & Future Projects
 ✅ **Sequence Alignment using NCBI BLAST** (Completed)  
 ✅ **Fetch PUBMED & Nucleotide Sequences using ENTREZ** (Completed)
+
 🔜 **Fetch Proteins from PDB**  
 🔜 **PROSITE & SCANPROSITE from EXPASY**  
 🔜 **Access KEGG Database**   
