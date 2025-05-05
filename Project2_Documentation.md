@@ -32,8 +32,8 @@ To retrieve and display metadata from **PubMed** articles related to the **TP53 
 
 1. Access Entrez and list available databases  
 2. Explore the PubMed database metadata  
-3. Search for articles related to "TP53"  
-4. Display article metadata (authors, title, journal, date)  
+3. Search for articles related to "TP53", and display the top 20 hits  
+4. Display article metadata (authors, title, journal, date) for a couple of PubMed IDs
 5. Fetch and pretty-print raw XML for a specific PubMed ID
 
 ---
