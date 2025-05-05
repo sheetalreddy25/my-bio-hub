@@ -24,10 +24,6 @@ This project demonstrates how to access and retrieve biomedical literature and n
 
 To retrieve and display metadata from **PubMed** articles related to the **TP53 gene**.
 
-### 📁 Dataset
-
-- [NCBI PubMed](https://pubmed.ncbi.nlm.nih.gov/)
-
 ### 📓 Notebook
 
 - [View Python Notebook for Part 1](https://github.com/sheetalreddy25/my-bio-hub/blob/main/fetch-pubmed-from-entrez.ipynb)
@@ -48,11 +44,6 @@ To retrieve and display metadata from **PubMed** articles related to the **TP53 
 
 To retrieve **nucleotide sequences** related to the **TP53 gene** in **Homo sapiens** from the NCBI **nucleotide** database.
 
-### 📁 Dataset
-
-- [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/)
-- Search term: `TP53[Gene] AND Homo sapiens[Organism]`
-
 ### 📓 Notebook
 
 - [View Python Notebook for Part 2](https://github.com/sheetalreddy25/my-bio-hub/blob/main/fetch-nucleotide-sequences-using-entrez.ipynb)
@@ -60,7 +51,7 @@ To retrieve **nucleotide sequences** related to the **TP53 gene** in **Homo sapi
 ### 🔄 Workflow
 
 1. Search the nucleotide database for TP53 in humans  
-2. Fetch and display top 10 result IDs  
+2. Fetch and display top 20 result IDs  
 3. Retrieve a nucleotide sequence in **FASTA** format  
 4. Retrieve the same sequence in **GenBank** format  
 5. Display detailed sequence metadata
