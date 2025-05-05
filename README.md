@@ -10,7 +10,7 @@ Welcome to **My Bio Hub**, a personal repository showcasing my bioinformatics pr
 
 ## 🚀 Current & Future Projects
 ✅ **Sequence Alignment using NCBI BLAST** (Completed)  
-🔜 **Fetch PUBMED & Nucleotide Sequences using ENTREZ**  
+✅ **Fetch PUBMED & Nucleotide Sequences using ENTREZ** (Completed)
 🔜 **Fetch Proteins from PDB**  
 🔜 **PROSITE & SCANPROSITE from EXPASY**  
 🔜 **Access KEGG Database**   
@@ -70,7 +70,7 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 
 ## **Fetch PUBMED & Nucleotide Sequences using ENTREZ**
 
-### [View Project 2 Documentation]()
+### [View Project 2 Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/b156919fb7c4b28769c7950d4a931e999457fbc6/Project2_Documentation.md)
 
 <details>
   <summary>📄 Part 1</summary>
