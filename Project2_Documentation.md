@@ -18,7 +18,7 @@ This project demonstrates how to access and retrieve biomedical literature and n
 
 ---
 
-## 🧬 Part 1: Fetch PUBMED from Entrez
+## 🧬 Part 1: Fetch PUBMED using Entrez
 
 ### 🎯 Objective
 
@@ -42,7 +42,7 @@ To retrieve and display metadata from **PubMed** articles related to the **TP53 
 
 ---
 
-## 🧪 Part 2: Fetch Nucleotide Sequences from Entrez
+## 🧪 Part 2: Fetch Nucleotide Sequences using Entrez
 
 ### 🎯 Objective
 
