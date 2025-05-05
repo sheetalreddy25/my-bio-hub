@@ -77,7 +77,7 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 
 ## **Fetch PUBMED using Entrez**
 
-### [🧪 View Python Notebook for Part 1](https://github.com/sheetalreddy25/my-bio-hub/blob/24720273d6d61ba1e89e489dcb77934371ddb419/fetch-pubmed-from-entrez.ipynb)
+### [🧪 View Python Notebook for Part 1](https://github.com/sheetalreddy25/my-bio-hub/blob/66597486962ebc7a87efb324f1a6583d19060029/fetch-pubmed-using-entrez.ipynb)
 
 ### Overview
 This part of the project involves retrieving data from the **PubMed** database using Biopython’s **Entrez API**. It includes searching for articles related to TP53 and formatting the results.
