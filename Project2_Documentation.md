@@ -26,7 +26,7 @@ To retrieve and display metadata from **PubMed** articles related to the **TP53 
 
 ### 📓 Notebook
 
-- [View Python Notebook for Part 1](https://github.com/sheetalreddy25/my-bio-hub/blob/main/fetch-pubmed-from-entrez.ipynb)
+- [View Python Notebook for Part 1](https://github.com/sheetalreddy25/my-bio-hub/blob/66597486962ebc7a87efb324f1a6583d19060029/fetch-pubmed-using-entrez.ipynb)
 
 ### 🔄 Workflow
 
