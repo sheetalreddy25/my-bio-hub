@@ -97,7 +97,6 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 
 </details>
 
-
 ---
 
 ## 🔗 Connect with Me
