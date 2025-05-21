@@ -1,29 +1,42 @@
 # 🧬 My Bio Hub – A Collection of Bioinformatics Projects
 
-Welcome to **My Bio Hub**, a personal repository showcasing my bioinformatics projects. This space serves as my portfolio, highlighting various computational biology workflows, data curation and analysis techniques, and bioinformatics tools.
+Welcome to **My Bio Hub**, a personal repository showcasing projects I've built while learning and applying core techniques in bioinformatics. It spans accessing biological databases using Python, and exploring RNA-Seq workflows using Linux and R.
 
-## 🔬 What's Inside?
-- **Sequence Alignment** (BLASTn & BLASTp using NCBI)
-- **Biocuration & Literature Retrieval** (PubMed, Entrez API)
-- **Protein Structure & Functional Analysis** (PDB, PROSITE, SCANPROSITE)
-- **Pathway & Gene Network Exploration** (KEGG Database)
+🔬 **What's Inside?**
 
-## 🚀 Current & Future Projects
-✅ **Sequence Alignment using NCBI BLAST** (Completed)  
-✅ **Fetch PUBMED & Nucleotide Sequences using ENTREZ** (Completed)
+📘 **Project Series 1 – Accessing Bioinformatics Databases using Biopython**
 
-🔜 **Fetch Proteins from PDB**  
-🔜 **PROSITE & SCANPROSITE from EXPASY**  
-🔜 **Access KEGG Database**   
+Sequence alignment using NCBI BLAST (BLASTn & BLASTp)
+Literature retrieval and nucleotide access via Entrez API (PubMed, Nucleotide)
+Protein structure & domain analysis (PDB, PROSITE, SCANPROSITE)
+Pathway and gene network exploration (KEGG)
 
-This repository will be regularly updated as I explore new bioinformatics techniques and tools. Stay tuned!
+🧪 **Project Series 2 – RNA-Seq (NGS) Data Analysis using Linux and R**
 
+FASTQ preprocessing and quality control (FastQC)
+Upcoming: Trimming, alignment, quantification, and downstream RNA-Seq analysis
+
+🚀 **Completed Projects**
+  ***Project Series 1***
+✅ Sequence Alignment using NCBI BLAST
+✅ Fetch PUBMED & Nucleotide Sequences using ENTREZ
+  ***Project Series 2***
+✅ FastQC Analysis of TP53 FASTQ Dataset
+
+🛠 **Upcoming Projects**
+  ***Project Series 1***
+🔜 Fetch Proteins from PDB
+🔜 PROSITE & SCANPROSITE from EXPASY
+🔜 Access KEGG Database
+  ***Project Series 2***
+🔜 RNA-Seq: Trimming, Mapping, and Differential Expression
+   
 ---
 
 # 📌 Projects
 
 <details>
-  <summary>🚀 Project 1</summary>
+  <summary>🚀 Project Series 1</summary>
 
 # **Sequence Alignment using NCBI BLAST**
 
