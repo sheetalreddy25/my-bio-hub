@@ -19,14 +19,14 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 ## 🚀 Completed & Upcoming Projects
 
 ### Project Series 1
-✅ Sequence Alignment using NCBI BLAST  
-✅ Fetch PUBMED & Nucleotide Sequences using ENTREZ 
-🔜 Fetch Proteins from PDB  
-🔜 PROSITE & SCANPROSITE from EXPASY  
+✅ Sequence Alignment using NCBI BLAST
+✅ Fetch PUBMED & Nucleotide Sequences using ENTREZ
+🔜 Fetch Proteins from PDB
+🔜 PROSITE & SCANPROSITE from EXPASY 
 🔜 Access KEGG Databas
 
 ### Project Series 2
-✅ FastQC Analysis of TP53 FASTQ Dataset  
+✅ FastQC Analysis of TP53 FASTQ Dataset
 🔜 RNA-Seq: Trimming, Mapping, and Differential Expression 
 
 ---
@@ -69,6 +69,8 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 
 </details>
 
+---
+
 <details>
   <summary>🧬 Fetch PUBMED & Nucleotide Sequences using ENTREZ </summary>
 
@@ -76,8 +78,6 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 
 <details>
   <summary>📄 Fetch PUBMED using Entrez </summary>
-
-## ****
 
 ### [🧪 View Python Notebook](https://github.com/sheetalreddy25/my-bio-hub/blob/66597486962ebc7a87efb324f1a6583d19060029/fetch-pubmed-using-entrez.ipynb)
 
