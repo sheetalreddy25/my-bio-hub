@@ -17,26 +17,30 @@ FASTQ preprocessing and quality control (FastQC)
 Upcoming: Trimming, alignment, quantification, and downstream RNA-Seq analysis
 
 🚀 **Completed Projects**
+
   ***Project Series 1***
 ✅ Sequence Alignment using NCBI BLAST
 ✅ Fetch PUBMED & Nucleotide Sequences using ENTREZ
+
   ***Project Series 2***
 ✅ FastQC Analysis of TP53 FASTQ Dataset
 
 🛠 **Upcoming Projects**
+
   ***Project Series 1***
 🔜 Fetch Proteins from PDB
 🔜 PROSITE & SCANPROSITE from EXPASY
 🔜 Access KEGG Database
+
   ***Project Series 2***
 🔜 RNA-Seq: Trimming, Mapping, and Differential Expression
    
 ---
 
-# 📌 Projects
+# 📌 Project Series 1
 
 <details>
-  <summary>🚀 Project Series 1</summary>
+  <summary>🚀 Project 1</summary>
 
 # **Sequence Alignment using NCBI BLAST**
 
