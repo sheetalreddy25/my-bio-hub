@@ -16,44 +16,32 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 
 ---
 
-## 🚀 Completed Projects
+## 🚀 Completed & Upcoming Projects
 
-### ✅ Project Series 1
-- Sequence Alignment using NCBI BLAST  
-- Fetch PUBMED & Nucleotide Sequences using ENTREZ  
+### Project Series 1
+✅ Sequence Alignment using NCBI BLAST  
+✅ Fetch PUBMED & Nucleotide Sequences using ENTREZ 
+🔜 Fetch Proteins from PDB  
+🔜 PROSITE & SCANPROSITE from EXPASY  
+🔜 Access KEGG Databas
 
-### ✅ Project Series 2
-- FastQC Analysis of TP53 FASTQ Dataset  
+### Project Series 2
+✅ FastQC Analysis of TP53 FASTQ Dataset  
+🔜 RNA-Seq: Trimming, Mapping, and Differential Expression 
 
----
-
-## 🛠 Upcoming Projects
-
-### 🔜 Project Series 1
-- Fetch Proteins from PDB  
-- PROSITE & SCANPROSITE from EXPASY  
-- Access KEGG Database  
-
-### 🔜 Project Series 2
-- RNA-Seq: Trimming, Mapping, and Differential Expression  
-   
 ---
 
 # 📌 Project Series 1
 
 <details>
-  <summary>🚀 Project 1</summary>
+  <summary>🚀 Sequence Alignment using NCBI BLAST </summary>
 
-# **Sequence Alignment using NCBI BLAST**
-
-### [View Project 1 Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/5d455afccf9c6d19359b3acab38ab8a791e87fce/Project1_Documentation.md)
+### [View Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/5d455afccf9c6d19359b3acab38ab8a791e87fce/Project1_Documentation.md)
 
 <details>
-  <summary>🧬 Part 1 </summary>
+  <summary>🧬 Nucleotide BLAST (BLASTn) with NCBI </summary>
 
-## **Nucleotide BLAST (BLASTn) with NCBI**
-
-### [**View Python Notebook for Part 1**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/nucleotide-blast-blastn-with-ncbi.ipynb)
+### [**View Python Notebook**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/nucleotide-blast-blastn-with-ncbi.ipynb)
 
 ### Overview
 This part of the project involves performing a Nucleotide BLAST (BLASTn) search using the TP53 gene sequence. BLASTn is used to compare a nucleotide sequence against the NCBI nucleotide database to identify homologous sequences.
@@ -65,11 +53,9 @@ This part of the project involves performing a Nucleotide BLAST (BLASTn) search 
 </details>
 
 <details>
-  <summary>🧪 Part 2 </summary>
+  <summary>🧪 Protein BLAST (BLASTp) with NCBI </summary>
 
-## **Protein BLAST (BLASTp) with NCBI**
-
-### [**View Python Notebook for Part 2**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/protein-blast-blastp-with-ncbi.ipynb)
+### [**View Python Notebook**](https://github.com/sheetalreddy25/my-bio-hub/blob/main/protein-blast-blastp-with-ncbi.ipynb)
 
 ### Overview
 This part of the project involves performing a Protein BLAST (BLASTp) search using the translated TP53 protein sequence. BLASTp is used to compare an amino acid sequence against the NCBI protein database to identify homologous sequences.
@@ -84,18 +70,16 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 </details>
 
 <details>
-  <summary>🧬 Project 2</summary>
+  <summary>🧬 Fetch PUBMED & Nucleotide Sequences using ENTREZ </summary>
 
-## **Fetch PUBMED & Nucleotide Sequences using ENTREZ**
-
-### [View Project 2 Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/b156919fb7c4b28769c7950d4a931e999457fbc6/Project2_Documentation.md)
+### [View Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/b156919fb7c4b28769c7950d4a931e999457fbc6/Project2_Documentation.md)
 
 <details>
-  <summary>📄 Part 1</summary>
+  <summary>📄 Fetch PUBMED using Entrez </summary>
 
-## **Fetch PUBMED using Entrez**
+## ****
 
-### [🧪 View Python Notebook for Part 1](https://github.com/sheetalreddy25/my-bio-hub/blob/66597486962ebc7a87efb324f1a6583d19060029/fetch-pubmed-using-entrez.ipynb)
+### [🧪 View Python Notebook](https://github.com/sheetalreddy25/my-bio-hub/blob/66597486962ebc7a87efb324f1a6583d19060029/fetch-pubmed-using-entrez.ipynb)
 
 ### Overview
 This part of the project involves retrieving data from the **PubMed** database using Biopython’s **Entrez API**. It includes searching for articles related to TP53 and formatting the results.
@@ -103,11 +87,9 @@ This part of the project involves retrieving data from the **PubMed** database u
 </details>
 
 <details>
-  <summary>🧬 Part 2</summary>
+  <summary>🧬 Fetch Nucleotide Sequences using Entrez </summary>
 
-## **Fetch Nucleotide Sequences using Entrez**
-
-### [🧪 View Python Notebook for Part 2](https://github.com/sheetalreddy25/my-bio-hub/blob/f9185416a09cd9799d7ce46e48aff519f8629798/fetch-nucleotide-sequences-using-entrez.ipynb)
+### [🧪 View Python Notebook](https://github.com/sheetalreddy25/my-bio-hub/blob/f9185416a09cd9799d7ce46e48aff519f8629798/fetch-nucleotide-sequences-using-entrez.ipynb)
 
 ### Overview  
 This part of the project demonstrates how to search for and retrieve **nucleotide sequences** from the **NCBI Nucleotide database** using Biopython’s Entrez module. It includes a gene-level search (TP53 in humans), and fetches records in both FASTA and GenBank formats.
