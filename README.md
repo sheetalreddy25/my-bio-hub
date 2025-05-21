@@ -19,15 +19,15 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 ## 🚀 Completed & Upcoming Projects
 
 ### Accessing Bioinformatics Databases using Biopython
--✅ Sequence Alignment using NCBI BLAST
--✅ Fetch PUBMED & Nucleotide Sequences using ENTREZ
--🔜 Fetch Proteins from PDB
--🔜 PROSITE & SCANPROSITE from EXPASY 
--🔜 Access KEGG Databas
+- ✅ Sequence Alignment using NCBI BLAST
+- ✅ Fetch PUBMED & Nucleotide Sequences using ENTREZ
+- 🔜 Fetch Proteins from PDB
+- 🔜 PROSITE & SCANPROSITE from EXPASY 
+- 🔜 Access KEGG Databas
 
 ### RNA-Seq (NGS) Data Analysis using Linux and R
--✅ FastQC Analysis of TP53 FASTQ Dataset
--🔜 RNA-Seq: Trimming, Mapping, and Differential Expression 
+- ✅ FastQC Analysis of TP53 FASTQ Dataset
+- 🔜 RNA-Seq: Trimming, Mapping, and Differential Expression 
 
 ---
 
