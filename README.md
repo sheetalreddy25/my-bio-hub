@@ -4,13 +4,13 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 
 ## 🔬 What's Inside?
 
-### 📘 Project Series 1 – Accessing Bioinformatics Databases using Biopython
+### 📘 Accessing Bioinformatics Databases using Biopython
 - Sequence alignment using NCBI BLAST (BLASTn & BLASTp)  
 - Literature retrieval and nucleotide access via Entrez API (PubMed, Nucleotide)  
 - Protein structure & domain analysis (PDB, PROSITE, SCANPROSITE)  
 - Pathway and gene network exploration (KEGG)  
 
-### 🧪 Project Series 2 – RNA-Seq (NGS) Data Analysis using Linux and R
+### 🧪 RNA-Seq (NGS) Data Analysis using Linux and R
 - FASTQ preprocessing and quality control (FastQC)  
 - *Upcoming:* Trimming, alignment, quantification, and downstream RNA-Seq analysis  
 
@@ -18,20 +18,20 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 
 ## 🚀 Completed & Upcoming Projects
 
-### Project Series 1
-✅ Sequence Alignment using NCBI BLAST
-✅ Fetch PUBMED & Nucleotide Sequences using ENTREZ
-🔜 Fetch Proteins from PDB
-🔜 PROSITE & SCANPROSITE from EXPASY 
-🔜 Access KEGG Databas
+### Accessing Bioinformatics Databases using Biopython
+-✅ Sequence Alignment using NCBI BLAST
+-✅ Fetch PUBMED & Nucleotide Sequences using ENTREZ
+-🔜 Fetch Proteins from PDB
+-🔜 PROSITE & SCANPROSITE from EXPASY 
+-🔜 Access KEGG Databas
 
-### Project Series 2
-✅ FastQC Analysis of TP53 FASTQ Dataset
-🔜 RNA-Seq: Trimming, Mapping, and Differential Expression 
+### RNA-Seq (NGS) Data Analysis using Linux and R
+-✅ FastQC Analysis of TP53 FASTQ Dataset
+-🔜 RNA-Seq: Trimming, Mapping, and Differential Expression 
 
 ---
 
-# 📌 Project Series 1
+# 📌 Accessing Bioinformatics Databases using Biopython
 
 <details>
   <summary>🚀 Sequence Alignment using NCBI BLAST </summary>
