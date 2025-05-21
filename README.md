@@ -2,38 +2,40 @@
 
 Welcome to **My Bio Hub**, a personal repository showcasing projects I've built while learning and applying core techniques in bioinformatics. It spans accessing biological databases using Python, and exploring RNA-Seq workflows using Linux and R.
 
-🔬 **What's Inside?**
+## 🔬 What's Inside?
 
-📘 **Project Series 1 – Accessing Bioinformatics Databases using Biopython**
+### 📘 Project Series 1 – Accessing Bioinformatics Databases using Biopython
+- Sequence alignment using NCBI BLAST (BLASTn & BLASTp)  
+- Literature retrieval and nucleotide access via Entrez API (PubMed, Nucleotide)  
+- Protein structure & domain analysis (PDB, PROSITE, SCANPROSITE)  
+- Pathway and gene network exploration (KEGG)  
 
-Sequence alignment using NCBI BLAST (BLASTn & BLASTp)
-Literature retrieval and nucleotide access via Entrez API (PubMed, Nucleotide)
-Protein structure & domain analysis (PDB, PROSITE, SCANPROSITE)
-Pathway and gene network exploration (KEGG)
+### 🧪 Project Series 2 – RNA-Seq (NGS) Data Analysis using Linux and R
+- FASTQ preprocessing and quality control (FastQC)  
+- *Upcoming:* Trimming, alignment, quantification, and downstream RNA-Seq analysis  
 
-🧪 **Project Series 2 – RNA-Seq (NGS) Data Analysis using Linux and R**
+---
 
-FASTQ preprocessing and quality control (FastQC)
-Upcoming: Trimming, alignment, quantification, and downstream RNA-Seq analysis
+## 🚀 Completed Projects
 
-🚀 **Completed Projects**
+### ✅ Project Series 1
+- Sequence Alignment using NCBI BLAST  
+- Fetch PUBMED & Nucleotide Sequences using ENTREZ  
 
-  ***Project Series 1***
-✅ Sequence Alignment using NCBI BLAST
-✅ Fetch PUBMED & Nucleotide Sequences using ENTREZ
+### ✅ Project Series 2
+- FastQC Analysis of TP53 FASTQ Dataset  
 
-  ***Project Series 2***
-✅ FastQC Analysis of TP53 FASTQ Dataset
+---
 
-🛠 **Upcoming Projects**
+## 🛠 Upcoming Projects
 
-  ***Project Series 1***
-🔜 Fetch Proteins from PDB
-🔜 PROSITE & SCANPROSITE from EXPASY
-🔜 Access KEGG Database
+### 🔜 Project Series 1
+- Fetch Proteins from PDB  
+- PROSITE & SCANPROSITE from EXPASY  
+- Access KEGG Database  
 
-  ***Project Series 2***
-🔜 RNA-Seq: Trimming, Mapping, and Differential Expression
+### 🔜 Project Series 2
+- RNA-Seq: Trimming, Mapping, and Differential Expression  
    
 ---
 
@@ -80,8 +82,6 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 </details>
 
 </details>
-
----
 
 <details>
   <summary>🧬 Project 2</summary>
