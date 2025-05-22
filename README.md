@@ -16,7 +16,7 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 
 ---
 
-## 🚀 Completed Projects
+## 🚀 Completed and Upcoming Projects
 
 ### 📌 Accessing Bioinformatics Databases using Biopython
 
@@ -87,16 +87,35 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 
 ---
 
-## 🚀 Upcoming Projects
+<details>
+  <summary> 🔜 Fetch Proteins from PDB </summary>
+</details>
 
-### Accessing Bioinformatics Databases using Biopython
-- 🔜 Fetch Proteins from PDB
-- 🔜 PROSITE & SCANPROSITE from EXPASY 
-- 🔜 Access KEGG Databas
+---
 
-### RNA-Seq (NGS) Data Analysis using Linux and R
-- 🔜 FastQC Analysis of TP53 FASTQ Dataset
-- 🔜 RNA-Seq: Trimming, Mapping, and Differential Expression 
+<details>
+  <summary> 🔜 PROSITE & SCANPROSITE from EXPASY  </summary>
+</details>
+
+---
+
+<details>
+  <summary> 🔜 Access KEGG Database  </summary>
+</details>
+
+---
+
+### 📌 RNA-Seq (NGS) Data Analysis using Linux and R
+
+<details>
+  <summary> 🔜 FastQC Analysis  </summary>
+</details>
+
+---
+
+<details>
+  <summary> 🔜 RNA-Seq: Trimming, Mapping, and Differential Expression Analysis  </summary>
+</details>
 
 ---
 
