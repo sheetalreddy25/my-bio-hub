@@ -12,7 +12,7 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 
 ### 🧪 RNA-Seq (NGS) Data Analysis using Linux and R
 - FASTQ preprocessing and quality control (FastQC)  
-- *Upcoming:* Trimming, alignment, quantification, and downstream RNA-Seq analysis  
+- Trimming, alignment, quantification, and downstream RNA-Seq analysis  
 
 ---
 
