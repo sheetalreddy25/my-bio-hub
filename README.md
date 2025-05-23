@@ -118,7 +118,7 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 </details>
 
 ---
----
+
 ## 🔗 Connect with Me
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" style="vertical-align:middle;"/> [LinkedIn](https://www.linkedin.com/in/sheetalreddy25)
 - 📧 [sheetal.reddy@g.austincc.edu](mailto:sheetal.reddy@g.austincc.edu)
