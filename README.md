@@ -15,11 +15,11 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 - Trimming, alignment, quantification, and downstream RNA-Seq analysis  
 
 ---
----
 
 ## 🚀 Completed and Upcoming Projects
 
-### 📌 Accessing Bioinformatics Databases using Biopython
+<details>
+   <summary> 📌 Accessing Bioinformatics Databases using Biopython </summary>
 
 <details>
   <summary>🚀 Sequence Alignment using NCBI BLAST </summary>
@@ -104,6 +104,7 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
   <summary> 🔜 Access KEGG Database  </summary>
 </details>
 
+</details>
 ---
 
 ### 📌 RNA-Seq (NGS) Data Analysis using Linux and R
