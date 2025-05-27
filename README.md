@@ -59,7 +59,7 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 
 </details>
 
----
+###
 
 <details>
   <summary>🧬 Fetch PUBMED & Nucleotide Sequences using ENTREZ </summary>
@@ -88,19 +88,19 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 
 </details>
 
----
+###
 
 <details>
   <summary> 🔜 Fetch Proteins from PDB </summary>
 </details>
 
----
+###
 
 <details>
   <summary> 🔜 PROSITE & SCANPROSITE from EXPASY  </summary>
 </details>
 
----
+###
 
 <details>
   <summary> 🔜 Access KEGG Database  </summary>
@@ -119,7 +119,7 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
   <summary> 🔜 FastQC Analysis  </summary>
 </details>
 
----
+###
 
 <details>
   <summary> 🔜 RNA-Seq: Trimming, Mapping, and Differential Expression Analysis  </summary>
