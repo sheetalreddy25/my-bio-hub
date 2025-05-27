@@ -122,7 +122,13 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 ###
 
 <details>
-  <summary> 🔜 RNA-Seq: Trimming, Mapping, and Differential Expression Analysis  </summary>
+  <summary> 🔜 Trimming of Poor Quality Reads  </summary>
+</details>
+
+###
+
+<details>
+  <summary> 🔜 RNA-Seq: Mapping, and Differential Expression Analysis  </summary>
 </details>
 
 </details>
