@@ -21,8 +21,6 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 <details>
   <summary>📌 Accessing Bioinformatics Databases using Biopython </summary>
 
-### 📌 Accessing Bioinformatics Databases using Biopython
-
 <details>
   <summary>🚀 Sequence Alignment using NCBI BLAST </summary>
 
@@ -112,8 +110,6 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 
 <details>
   <summary>📌 RNA-Seq (NGS) Data Analysis using Linux and R  </summary>
-  
-### 📌 RNA-Seq (NGS) Data Analysis using Linux and R
 
 <details>
   <summary> 🔜 FastQC Analysis  </summary>
