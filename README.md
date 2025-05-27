@@ -59,7 +59,7 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 
 </details>
 
-###
+---
 
 <details>
   <summary>🧬 Fetch PUBMED & Nucleotide Sequences using ENTREZ </summary>
@@ -88,7 +88,7 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 
 </details>
 
-###
+---
 
 <details>
   <summary> 🔜 Fetch Proteins from PDB </summary>
