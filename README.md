@@ -107,8 +107,12 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 </details>
 
 </details>
+
 ---
 
+<details>
+  <summary>📌 RNA-Seq (NGS) Data Analysis using Linux and R  </summary>
+  
 ### 📌 RNA-Seq (NGS) Data Analysis using Linux and R
 
 <details>
@@ -119,6 +123,8 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 
 <details>
   <summary> 🔜 RNA-Seq: Trimming, Mapping, and Differential Expression Analysis  </summary>
+</details>
+
 </details>
 
 ---
