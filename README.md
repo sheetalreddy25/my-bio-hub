@@ -128,6 +128,12 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 ###
 
 <details>
+  <summary> 🔜 Performing Alignment of Reads with Reference Genome  </summary>
+</details>
+
+###
+
+<details>
   <summary> 🔜 RNA-Seq: Mapping, and Differential Expression Analysis  </summary>
 </details>
 
