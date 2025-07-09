@@ -95,7 +95,7 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
   
   #### [View Documentation]()
   
-  #### [🧪 View Python Notebook]()
+  #### [🧪 View Python Notebook](https://github.com/sheetalreddy25/my-bio-hub/blob/d718147b7946c3870b87b37b2fcd502b7dad05bd/fetch-proteins-from-pdb.ipynb)
 
   #### Overview
   This part of the project involves retrieving and parsing protein structure data from the Protein Data Bank (PDB) using Biopython’s PDB module. It demonstrates downloading   the TP53 protein structure (PDB ID: 7BWN), extracting metadata, and summarizing chain and residue information.
