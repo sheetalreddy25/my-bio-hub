@@ -92,6 +92,13 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 
 <details>
   <summary> 🔜 Fetch Proteins from PDB </summary>
+  
+  #### [View Documentation]()
+  
+  #### [🧪 View Python Notebook]()
+
+  #### Overview
+
 </details>
 
 ###
