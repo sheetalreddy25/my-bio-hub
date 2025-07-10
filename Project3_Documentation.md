@@ -31,7 +31,7 @@ To **download**, **parse**, and **explore** the 3D structure of the **TP53 prote
 
 ### 📓 Notebook
 
-- *[Link to your Kaggle or GitHub Notebook]*
+- [View Python Notebook for Part 1](https://github.com/sheetalreddy25/my-bio-hub/blob/main/nucleotide-blast-blastn-with-ncbi.ipynb)
 
 ### 🔄 Workflow
 
