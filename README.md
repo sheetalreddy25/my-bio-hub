@@ -10,10 +10,6 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 - Protein structure & domain analysis (PDB, PROSITE, SCANPROSITE)  
 - Pathway and gene network exploration (KEGG)  
 
-### 🧪 RNA-Seq (NGS) Data Analysis using Linux and R
-- FASTQ preprocessing and quality control (FastQC)  
-- Trimming, alignment, quantification, and downstream RNA-Seq analysis  
-
 ---
 
 ## 🚀 Completed and Upcoming Projects
@@ -114,37 +110,6 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 
 <details>
   <summary> 🔜 Access KEGG Database  </summary>
-</details>
-
-</details>
-
----
-
-<details>
-  <summary>📌 RNA-Seq (NGS) Data Analysis using Linux and R  </summary>
-
-###
-
-<details>
-  <summary> 🔜 FastQC Analysis  </summary>
-</details>
-
-###
-
-<details>
-  <summary> 🔜 Trimming of Poor Quality Reads  </summary>
-</details>
-
-###
-
-<details>
-  <summary> 🔜 Performing Alignment of Reads with Reference Genome  </summary>
-</details>
-
-###
-
-<details>
-  <summary> 🔜 RNA-Seq: Mapping, and Differential Expression Analysis  </summary>
 </details>
 
 </details>
