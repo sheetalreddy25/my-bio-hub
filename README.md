@@ -1,6 +1,6 @@
 # 🧬 My Bio Hub – A Collection of Bioinformatics Projects
 
-Welcome to **My Bio Hub**, a personal repository showcasing projects I've built while learning and applying core techniques in bioinformatics. It spans accessing biological databases using Python, and exploring RNA-Seq workflows using Linux and R.
+Welcome to **My Bio Hub**, a personal repository showcasing projects I've built while learning and applying core techniques in bioinformatics.
 
 ## 🔬 What's Inside?
 
