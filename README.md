@@ -20,7 +20,7 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 ###
 
 <details>
-  <summary>🚀 Sequence Alignment using NCBI BLAST </summary>
+  <summary>✅ Sequence Alignment using NCBI BLAST </summary>
 
 #### [View Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/5d455afccf9c6d19359b3acab38ab8a791e87fce/Project1_Documentation.md)
 
@@ -58,7 +58,7 @@ This part of the project involves performing a Protein BLAST (BLASTp) search usi
 ---
 
 <details>
-  <summary>🧬 Fetch PUBMED & Nucleotide Sequences using ENTREZ </summary>
+  <summary>✅ Fetch PUBMED & Nucleotide Sequences using ENTREZ </summary>
 
 #### [View Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/b156919fb7c4b28769c7950d4a931e999457fbc6/Project2_Documentation.md)
 
