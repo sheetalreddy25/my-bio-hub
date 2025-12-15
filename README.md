@@ -102,13 +102,11 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 
 ###
 
-<details>
-  <summary> 🔜 PROSITE & SCANPROSITE from EXPASY  </summary>
+<details><summary> 🔜 PROSITE & SCANPROSITE from EXPASY  </summary>
 
 #### [View Documentation](#)
 
-<details>
-  <summary>📄 Prosite Record Retrieval from ExPASy </summary>
+<details><summary>📄 Prosite Record Retrieval from ExPASy </summary>
   
 #### [🧪 View Python Notebook](https://github.com/sheetalreddy25/my-bio-hub/blob/0af72729856097b01740643483c19bba64e59ef3/prosite-from-expasy.ipynb)
 
@@ -117,8 +115,7 @@ This part of the project focuses on **Data Retrieval and Parsing**. It uses Biop
 
 </details>
 
-<details>
-  <summary>🧬 ScanProsite Simulation on TP53 Sequence </summary>
+<details><summary>🧬 ScanProsite Simulation on TP53 Sequence </summary>
   
 #### [🧪 View Python Notebook](#)
 
