@@ -119,7 +119,7 @@ This part of the project focuses on **Data Retrieval and Parsing**. It uses Biop
 
 <details>
   <summary>🧬 ScanProsite Simulation on TP53 Sequence </summary>
-
+  
 #### [🧪 View Python Notebook]()
 
 #### Overview  
