@@ -109,8 +109,8 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 
 <details>
   <summary>📄 Prosite Record Retrieval from ExPASy </summary>
-
-#### [🧪 View Python Notebook]()
+  
+#### [🧪 View Python Notebook](https://github.com/sheetalreddy25/my-bio-hub/blob/0af72729856097b01740643483c19bba64e59ef3/prosite-from-expasy.ipynb)
 
 #### Overview
 This part of the project focuses on **Data Retrieval and Parsing**. It uses Biopython's **ExPASy** and **Prosite** modules to fetch and parse the official PROSITE record (`PS00348`), which defines the conserved **p53 Family Signature**. This confirms the critical metadata, pattern syntax, and validation statistics before scanning.
