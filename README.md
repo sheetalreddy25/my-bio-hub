@@ -105,7 +105,7 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 <details>
   <summary> 🔜 PROSITE & SCANPROSITE from EXPASY  </summary>
 
-#### [View Documentation]()
+#### [View Documentation](#)
 
 <details>
   <summary>📄 Prosite Record Retrieval from ExPASy </summary>
@@ -120,7 +120,7 @@ This part of the project focuses on **Data Retrieval and Parsing**. It uses Biop
 <details>
   <summary>🧬 ScanProsite Simulation on TP53 Sequence </summary>
   
-#### [🧪 View Python Notebook]()
+#### [🧪 View Python Notebook](#)
 
 #### Overview  
 This part simulates the function of the **ScanProsite tool**. It first fetches the canonical human **TP53 protein sequence** (`P04637`) from UniProt, converts the PROSITE pattern into a regular expression, and uses Python's `re` module to locate the signature, demonstrating its exact position within the TP53 protein sequence. 
