@@ -104,7 +104,7 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 
 <details><summary>✅ PROSITE & SCANPROSITE from EXPASY  </summary>
 
-#### [View Documentation](#)
+#### [View Documentation](https://github.com/sheetalreddy25/my-bio-hub/blob/c2e67298246dea404ac3827af32847497d1ee7ba/Project4_Documentation.md)
 
 <details><summary>📄 Prosite Record Retrieval from ExPASy </summary>
   
