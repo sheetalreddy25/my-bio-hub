@@ -102,7 +102,7 @@ This part of the project demonstrates how to search for and retrieve **nucleotid
 
 ###
 
-<details><summary> 🔜 PROSITE & SCANPROSITE from EXPASY  </summary>
+<details><summary>✅ PROSITE & SCANPROSITE from EXPASY  </summary>
 
 #### [View Documentation](#)
 
