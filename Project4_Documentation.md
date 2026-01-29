@@ -54,7 +54,7 @@ A critical component of this project was overcoming a modern technical limitatio
 
 * **Format Mismatch**: While Biopython’s `Prosite.read()` successfully parses static record files (as seen in Part 1), the high-level `ScanProsite.read()` function often fails with live API results.
 * **The Problem**: The modern ExPASy server returns results in a complex **XML format** utilizing a specific namespace (`urn:expasy:scanprosite`). Legacy Biopython parsers often fail to account for this namespace, leading to empty results.
-* **The Solution**: By reading the raw "handle" as a string and using `xml.etree.ElementTree`, we manually mapped the data. This allows for direct navigation of `sp:match` tags, ensuring the tool remains functional even if server record formats change.
+* **The Solution**: By reading the raw "handle" as a string and using `xml.etree.ElementTree`, manual data mapping was performed. This allows for direct navigation of `sp:match` tags, ensuring the tool remains functional even if server record formats change.
 
 ---
 
