@@ -115,12 +115,12 @@ This part of the project focuses on **Data Retrieval and Parsing**. It uses Biop
 
 </details>
 
-<details><summary>🧬 ScanProsite Simulation on TP53 Sequence </summary>
+<details><summary>🧬 ScanProsite & XML Parsing on TP53 Sequence </summary>
   
 #### [🧪 View Python Notebook](https://github.com/sheetalreddy25/my-bio-hub/blob/78576c0f571991c2823b9a048dbe8d9e56e2c54f/scanprosite-from-expasy.ipynb)
 
 #### Overview  
-This part simulates the function of the **ScanProsite tool**. It first fetches the canonical human **TP53 protein sequence** (`P04637`) from UniProt, converts the PROSITE pattern into a regular expression, and uses Python's `re` module to locate the signature, demonstrating its exact position within the TP53 protein sequence. 
+This part identifies functional domains in the human **TP53 protein sequence** (`P04637`). Due to current **incompatibilities between Biopython's high-level parsers and the modern ScanProsite API**, this project implements a custom solution: fetching raw XML data and using `xml.etree.ElementTree` to manually parse and locate the signature. This ensures accurate detection of the DNA-binding domain (found at positions 237-249) despite evolving server formats.
 
 </details>
 
