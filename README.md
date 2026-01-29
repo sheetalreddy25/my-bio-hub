@@ -117,7 +117,7 @@ This part of the project focuses on **Data Retrieval and Parsing**. It uses Biop
 
 <details><summary>🧬 ScanProsite Simulation on TP53 Sequence </summary>
   
-#### [🧪 View Python Notebook](#)
+#### [🧪 View Python Notebook](https://github.com/sheetalreddy25/my-bio-hub/blob/78576c0f571991c2823b9a048dbe8d9e56e2c54f/scanprosite-from-expasy.ipynb)
 
 #### Overview  
 This part simulates the function of the **ScanProsite tool**. It first fetches the canonical human **TP53 protein sequence** (`P04637`) from UniProt, converts the PROSITE pattern into a regular expression, and uses Python's `re` module to locate the signature, demonstrating its exact position within the TP53 protein sequence. 
