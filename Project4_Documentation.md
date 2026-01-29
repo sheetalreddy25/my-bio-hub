@@ -1,7 +1,7 @@
 # 📘 Project 4 Documentation: Protein Domain Analysis using ExPASy (PROSITE & ScanProsite)
 
 ## 🧬 Overview
-This project focuses on identifying conserved functional domains within a protein sequence by interacting with the **ExPASy** server[cite: 1, 2]. [cite_start]It demonstrates how to retrieve expert-curated domain metadata and programmatically scan sequences for specific biochemical "signatures" or motifs that define protein families.
+This project focuses on identifying conserved functional domains within a protein sequence by interacting with the **ExPASy** server. It demonstrates how to retrieve expert-curated domain metadata and programmatically scan sequences for specific biochemical "signatures" or motifs that define protein families.
 
 The project is divided into two specialized parts:
 - **Part 1:** Metadata retrieval and parsing of official **PROSITE** records.
